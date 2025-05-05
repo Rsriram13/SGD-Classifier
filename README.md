@@ -55,7 +55,7 @@ plt.scatter(y_test,y_pred)
 
 ## Output:
 
-![Screenshot 2025-04-28 114858](https://github.com/user-attachments/assets/a6afd20f-5f83-4c7c-a529-47e55e916d56)
+![image](https://github.com/user-attachments/assets/a408f090-867c-41c7-aa52-1010d7db3b78)
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
